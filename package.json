@@ -1,0 +1,18 @@
+{
+  "name": "chatproject",
+  "version": "1.0.0",
+  "description": "A simpel chat project to learn socket io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "app": "nodemon index.js"
+  },
+  "author": "Alit Darma Putra",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
