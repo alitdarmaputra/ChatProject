@@ -1,6 +1,6 @@
 # ChatProject
 ## Desription
-Simpel chat project to learn socket.io module. Socket.io is a module that can make your app can be real-time
+Simpel chat project to learn socket.io module. Socket.io is a module that can make your app can be run in real-time
 ## How to Install and Run
 1. Install node
 2. Clone this repository
